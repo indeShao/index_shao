@@ -1,0 +1,2 @@
+# index_shao
+blog
